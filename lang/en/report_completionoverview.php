@@ -40,4 +40,4 @@ $string['showbutton'] = 'Show courses';
 $string['noenrolments'] = 'Completion tracking is enabled but no students are enrolled on this course.';
 $string['nomodules'] = 'Completion tracking is enabled but no modules have been configured to track completion.';
 $string['courselink'] = 'view';
-
+$string['privacy:metadata'] = 'Completion overview does not store any of its own user data, only displays existing data'
