@@ -14,7 +14,7 @@
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
-namespace report_completionoverview;
+namespace report_completionoverview\privacy;
 
 class provider implements
     // This plugin does not store any personal user data.
